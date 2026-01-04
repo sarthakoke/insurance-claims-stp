@@ -247,19 +247,3 @@ This project helped me practice:
 - Explaining decisions clearly  
 
 ---
-
-## 🗣️ How I Describe This in Interviews
-
-> “This was a solo case study where I explored how claims processing could be redesigned using data. I focused on safe automation, clear routing, and realistic controls rather than predictive models. The goal was to show how a business analyst turns data into operational decisions.”
-
----
-
-## 📌 Final Note
-
-This project is:
-- Honest  
-- Explainable  
-- Defendable  
-- Built end-to-end by one person  
-
-It focuses on **thinking**, not buzzwords.
